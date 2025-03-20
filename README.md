@@ -1,6 +1,6 @@
-# Data Pipeline (in progress...)
+# Data Pipeline
 
-Data ingestion project with Apache Airflow
+Data ingestion project with Apache Airflow (in progress...)
 
 ## Requirements
 
